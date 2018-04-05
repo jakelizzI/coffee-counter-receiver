@@ -1,0 +1,33 @@
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Initial source changes: [0m
+[0m[[0mdebug[0m] [0m[naha] 	removed:Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	added: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	modified: Set(/home/jakelizzi/work/coffee-counter-receiver/src/main/scala/Receiver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Invalidated products: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] External API changes: API Changes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Modified binary dependencies: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial directly invalidated sources: Set(/home/jakelizzi/work/coffee-counter-receiver/src/main/scala/Receiver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] [0m
+[0m[[0mdebug[0m] [0m[naha] Sources indirectly invalidated by:[0m
+[0m[[0mdebug[0m] [0m[naha] 	product: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	binary dep: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] 	external source: Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/jakelizzi/work/coffee-counter-receiver/src/main/scala/Receiver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set(/home/jakelizzi/work/coffee-counter-receiver/src/main/scala/Receiver.scala)[0m
+[0m[[0mdebug[0m] [0m[naha] Recompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/jakelizzi/work/coffee-counter-receiver/target/scala-2.12/classes...[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.4[0m
+[0m[[0mdebug[0m] [0mGetting org.scala-sbt:compiler-interface:0.13.16:component from component compiler for Scala 2.12.4[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 7b9b28d0, interfacing (CompilerInterface) with Scala compiler version 2.12.4[0m
+[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
+[0m[[0mdebug[0m] [0m	-bootclasspath[0m
+[0m[[0mdebug[0m] [0m	/home/jakelizzi/.sdkman/candidates/java/8u131-zulu/jre/lib/resources.jar:/home/jakelizzi/.sdkman/candidates/java/8u131-zulu/jre/lib/rt.jar:/home/jakelizzi/.sdkman/candidates/java/8u131-zulu/jre/lib/sunrsasign.jar:/home/jakelizzi/.sdkman/candidates/java/8u131-zulu/jre/lib/jsse.jar:/home/jakelizzi/.sdkman/candidates/java/8u131-zulu/jre/lib/jce.jar:/home/jakelizzi/.sdkman/candidates/java/8u131-zulu/jre/lib/charsets.jar:/home/jakelizzi/.sdkman/candidates/java/8u131-zulu/jre/lib/jfr.jar:/home/jakelizzi/.sdkman/candidates/java/8u131-zulu/jre/classes:/home/jakelizzi/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.4.jar[0m
+[0m[[0mdebug[0m] [0m	-classpath[0m
+[0m[[0mdebug[0m] [0m	/home/jakelizzi/work/coffee-counter-receiver/target/scala-2.12/classes:/home/jakelizzi/.ivy2/cache/net.java.dev.jna/jna/jars/jna-4.5.0.jar[0m
+[0m[[0mdebug[0m] [0mScala compilation took 7.879279378 s[0m
+[0m[[0mdebug[0m] [0m[naha] New invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Initial set of included nodes: Set()[0m
+[0m[[0mdebug[0m] [0m[naha] Previously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0mdebug[0m] [0m[naha] 	Set()[0m
+[0m[[0mdebug[0m] [0m[naha] All newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
